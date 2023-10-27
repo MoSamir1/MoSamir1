@@ -42,7 +42,11 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
  -->
-
+- **Operating Systems**:
+  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoSamir1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
