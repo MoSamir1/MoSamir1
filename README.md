@@ -39,8 +39,7 @@
 ### 🛠 &nbsp;I’m currently learning
 
  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
- ![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+ ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white
 )
  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
