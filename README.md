@@ -40,6 +40,7 @@
 
  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+ ![Tailwind](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)
 <!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp; -->
 <!-- ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
