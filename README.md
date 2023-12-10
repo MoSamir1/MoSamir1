@@ -39,8 +39,10 @@
 ### 🛠 &nbsp;I’m currently learning
 
  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
- ![Tailwind](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+ ![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)
 <!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp; -->
 <!-- ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
