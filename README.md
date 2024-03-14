@@ -29,6 +29,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; -->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -43,7 +44,7 @@
 )
  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
- ![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)
+ 
 <!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp; -->
 <!-- ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
